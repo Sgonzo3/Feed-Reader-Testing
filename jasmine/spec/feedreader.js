@@ -55,6 +55,7 @@ $(function() {
   describe('Initial Entries', function() {
 
     // ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
+    // Matthew Cranford https://matthewcranford.com/feed-reader-walkthrough-part-4-async-tests/
     beforeEach(function(done) {
       loadFeed(0, done);
     });
