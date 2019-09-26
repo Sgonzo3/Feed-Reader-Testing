@@ -1,9 +1,13 @@
-Open index.html to load Feed Reader
+# Feed Reader Testing
+Jasmine unit tests for a feed reader application. Completed as part of the Udacity Front End Developer Nanodegree.
 
-Click article headings to open links
+## Instuctions
+- Open index.html to load Feed Reader
 
-Scroll down page to browse links in that feed
+- Click article headings to open links
 
-Click top left Menu Icon to browse feed list
+- Scroll down page to browse links in that feed
 
-Click feeds in menu list to view articles in that feed
+- Click top left Menu Icon to browse feed list
+
+- Click feeds in menu list to view articles in that feed
